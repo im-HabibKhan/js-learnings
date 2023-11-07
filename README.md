@@ -1,2 +1,2 @@
 # js-learnings
-A code repo for JazaScript related stuff
+A code repo for JavaScript related stuff
